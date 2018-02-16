@@ -1,0 +1,140 @@
+---
+#Serverless Functions Landscape
+Serverless Functions Landscape:
+  has_list: true
+  Cloud Platforms:
+  - Amazon Web Services:
+    - Service = "AWS Lambda"
+    - URL = "https://aws.amazon.com/lambda/"
+  - Microsoft Azure:
+    - Service = "Azure Functions"
+    - URL = "https://azure.microsoft.com/en-us/services/functions/"
+  - Google Cloud:
+    - Service = "Cloud Functions"
+    - URL = "https://cloud.google.com/functions/"
+  - IBM Cloud:
+    - Service = "IBM Cloud functions"
+    - URL = "https://console.bluemix.net/openwhisk/"
+  - Nano Lambda:
+    - Service = "Nano Lambda"
+    - URL = "http://nano-lambda.com/"
+  - Zeit Now Cloud:
+    - Service = "Zeit Now"
+    - URL = "https://zeit.co/now"
+  - SpotInst:
+    - Service = "SpotInst functions"
+    - URL = "https://spotinst.com/products/spotinst-functions/"
+  - Hyper.sh:
+    - Service = "Hyper Func (Beta)"
+    - URL = "http://hyper.sh"
+  - Stdlib:
+    - Service = "Stdlib"
+    - URL = "https://stdlib.com/"
+  - Syncano:
+    - Service = "Syncano"
+    - URL = "https://syncano.io"
+  - Twilio:
+    - Service = "Twilio Functions"
+    - URL = "https://www.twilio.com/functions"
+  - Weblab:
+    - Service = "Weblab"
+    - URL = "https://weblab.io/"
+  - Back&:
+    - Service = "Back&"
+    - URL = "https://www.backand.com/"
+  Multi Cloud Platforms:
+  - Oracle Cloud:
+    - Software = "Fn Project"
+    - URL = "https://fnproject.io/"
+  - Apache Foundation:
+    - Software = "Apache OpenWhisk"
+    - URL = "https://openwhisk.apache.org/"
+  - Iron.io:
+    - Software = "IronFunctions"
+    - URL = "https://github.com/iron-io/functions"
+  - PubNub:
+    - Software = "PubNub Functions"
+    - URL = "https://www.pubnub.com/products/functions/"
+  - Nuclio:
+    - Software = "Nuclio"
+    - URL = "https://nuclio.io/"
+  - Bitnami:
+    - Software = "Kubeless"
+    - URL = "http://kubeless.io/"
+  - Platform9:
+    - Software = "Fission"
+    - URL = "http://fission.io/"
+  - Fx:
+    - Software = "Fx"
+    - URL = "https://github.com/metrue/fx"
+  - OpenFaaS:
+    - Software = "OpenFaaS"
+    - URL = "https://www.openfaas.com/"
+  - LunchBadger:
+    - Software = "LunchBadger Serverless"
+    - URL = "https://www.lunchbadger.com/"
+  - Galactic Fog:
+    - Software = "Galactic Fog Gestalt"
+    - URL = "http://www.galacticfog.com/product/"
+  Backend Services:
+  - Para:
+    - Service = "Para"
+    - URL = "https://paraio.com/"
+  - Progress:
+    - Service = "Kinvey"
+    - URL = "http://www.kinvey.com"
+  - Google Cloud:
+    - Service = "Firebase"
+    - URL = "https://firebase.google.com/"
+  - CloudBoost:
+    - Service = "CloudBoost"
+    - URL = "https://www.cloudboost.io/"
+  - Backendless:
+    - Service = "Backendless"
+    - URL = "https://backendless.com/"
+  - Stamplay:
+    - Service = "Stamplay"
+    - URL = "https://stamplay.com/"
+  - Brightwork:
+    - Service = "Brightwork (Beta)"
+    - URL = "https://www.brightwork.io/"
+  Developer Tools:
+  - Clay:
+    - Software = "Clay"
+    - URL = "https://clay.run/"
+  - Webtask:
+    - Service = "Webtask"
+    - URL = "https://webtask.io/"
+  - Hoodie:
+    - Software = "Hoodie"
+    - URL = "http://hood.ie/"
+  - Wolkenkit:
+    - Software = "Wolkenkit"
+    - URL = "https://www.wolkenkit.io/"
+  - Algorithmia:
+    - Service = "Algorithmia"
+    - URL = "https://algorithmia.com/"
+  Serverless Frameworks:
+  - Zappa:
+    - Software = "Zappa"
+    - URL = "https://www.zappa.io/"
+  Monitoring:
+  - Dashbird:
+    - Service = "Dashbird"
+    - URL = "https://dashbird.io/"
+  Storage:
+  - Minio:
+    - Software = "Minio"
+    - URL = "http://minio.io"
+  -NoDB:
+    - Software = "NoDB"
+    - URL = "https://github.com/Miserlou/NoDB"
+  CDN:
+  - Cisco:
+    - Software - "Function Router"
+    - URL = "https://www.functionrouter.com/"
+  DevOps:
+  - Seed:
+    - Service = "Seed CI/CD Pipeline"
+    - URL = "https://seed.run/"    
+...
