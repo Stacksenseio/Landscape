@@ -76,6 +76,15 @@ Serverless Functions Landscape:
   - Galactic Fog:
     - Software = "Galactic Fog Gestalt"
     - URL = "http://www.galacticfog.com/product/"
+  - Pivotal Functions Service:
+    - Software = "Pivotal Functions Service (based on Project Riff)"
+    - URL = "https://pivotal.io/platform/pivotal-function-service"
+  - Firecamp:
+    - Software = "Firecamp"
+    - URL = "https://www.cloudstax.io/firecamp"
+  - Project Riff:
+    - Software = "Project Riff"
+    - URL = "https://projectriff.io/"
   Backend Services:
   - Para:
     - Service = "Para"
@@ -114,14 +123,77 @@ Serverless Functions Landscape:
   - Algorithmia:
     - Service = "Algorithmia"
     - URL = "https://algorithmia.com/"
-  Serverless Frameworks:
+  - Jazz:
+    - Software = "Jazz"
+    - URL = "https://github.com/tmobile/jazz"
+  - IBM Composer:
+    - Software = "IBM Composer"
+    - URL = "https://github.com/ibm-functions/composer/"
+  - Microcule:
+    - Software = "Microcule"
+    - URL = "https://github.com/Stackvana/microcule/"
+  - Realm Functions:
+    - Software = "Realm Functions"
+    - URL = "https://realm.io/realm-functions/"
+  Frameworks:
+  - Serverless:
+    - Software = "Serverless Framework and Event Gateway"
+    - URL = "https://serverless.com/"
   - Zappa:
     - Software = "Zappa"
     - URL = "https://www.zappa.io/"
-  Monitoring:
+  - AWS Chalice:
+    - Software = "Chalice, python Microservices framework"
+    - URL = "https://github.com/aws/chalice"
+  - Claudia.js:
+    - Software = "Claudia.js"
+    - URL = "https://claudiajs.com/"
+  - Apex:
+    - Software = "Apex"
+    - URL = "http://apex.run/"
+  - Dawson:
+    - Software = "Dawson"
+    - URL = "https://github.com/dawson-org"
+  - Kappa:
+    - Software = "Kappa"
+    - URL = "https://github.com/garnaat/kappa"
+  - λ Gordon:
+    - Software = "λ Gordon"
+    - URL = "https://github.com/jorgebastida/gordon"
+  - Shep:
+    - Software = "Shep"
+    - URL = "https://github.com/bustle/shep"
+  - Sparta:
+    - Software = "Sparta"
+    - URL = "http://gosparta.io/"
+  - Middy:
+    - Software = "Middy"
+    - URL = "https://middy.js.org/"
+  - Qmuli:
+    - Software = "QMuli"
+    - URL = "https://github.com/qmuli/qmuli/"
+  - Bender:
+    - Software = "Bender"
+    - URL = "https://github.com/nextdoor/bender"
+  - Scar:
+    - Software = "Scar"
+    - URL = "https://github.com/grycap/scar"
+  Observability:
   - Dashbird:
     - Service = "Dashbird"
     - URL = "https://dashbird.io/"
+  - Thundra:
+    - Service = "Thundra"
+    - URL = "https://www.thundra.io/"
+  - IOPipe:
+    - Service = "IOPipe"
+    - URL = "https://www.iopipe.com/"
+  - Stackery:
+    - Service = "Stackery"
+    - URL = "https://www.stackery.io/"
+  - Honeycomb.io:
+    - Service = "Honeycomb.io"
+    - URL = "https://honeycomb.io/serverless/"
   Storage:
   - Minio:
     - Software = "Minio"
@@ -136,5 +208,28 @@ Serverless Functions Landscape:
   DevOps:
   - Seed:
     - Service = "Seed CI/CD Pipeline"
-    - URL = "https://seed.run/"    
+    - URL = "https://seed.run/"
+  - LambCI:
+    - Software = "LambCI"
+    - URL = "https://github.com/lambci/lambci"
+  Security:
+  - Puresec:
+    - Service = "Puresec"
+    - URL = "https://www.puresec.io/"
+  - Snyk:
+    - Software = "Snyk"
+    - URL = "https://snyk.io/"
+  - Vanadium:
+    - Software = "Vanadium"
+    - URL = "https://vandium.io/"
+  - Evident.io:
+    - Software = "Evident.io"
+    - URL = "https://evident.io/"
+  - Twistlock:
+    - Software = "Twistlock"
+    - URL = "https://www.twistlock.com/"
+  - BinaryAlert:
+    - Software = "BinaryAlert"
+    - URL = "https://github.com/airbnb/binaryalert"
+
 ...
