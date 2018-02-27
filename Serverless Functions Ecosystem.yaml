@@ -197,6 +197,9 @@ Serverless Functions Landscape:
   - Logz.io:
     - Service = "Logz.io"
     - URL = "https://logz.io/"
+  - Datadog:
+    - Service = "Datadog"
+    - URL = "http://www.datadoghq.com"
   Storage:
   - Minio:
     - Software = "Minio"
