@@ -200,6 +200,9 @@ Serverless Functions Landscape:
   - Datadog:
     - Service = "Datadog"
     - URL = "http://www.datadoghq.com"
+  - Sumologic:
+    - Service = "Sumologic"
+    - URL = "https://www.sumologic.com/"
   Storage:
   - Minio:
     - Software = "Minio"
