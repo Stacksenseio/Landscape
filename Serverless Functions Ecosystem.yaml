@@ -194,6 +194,9 @@ Serverless Functions Landscape:
   - Honeycomb.io:
     - Service = "Honeycomb.io"
     - URL = "https://honeycomb.io/serverless/"
+  - Logz.io:
+    - Service = "Logz.io"
+    - URL = "https://logz.io/"
   Storage:
   - Minio:
     - Software = "Minio"
