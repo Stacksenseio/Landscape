@@ -86,6 +86,9 @@ Serverless Functions Landscape:
   - Project Riff:
     - Software = "Project Riff"
     - URL = "https://projectriff.io/"
+  - Azure Functions Runtime:
+    - Software = "Azure Functions Runtime"
+    - URL = "https://github.com/Azure/azure-functions-host"
   Backend Services:
   - Para:
     - Service = "Para"
