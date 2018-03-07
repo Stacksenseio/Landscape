@@ -89,6 +89,9 @@ Serverless Functions Landscape:
   - Azure Functions Runtime:
     - Software = "Azure Functions Runtime"
     - URL = "https://github.com/Azure/azure-functions-host"
+  - Pulsar Functions:
+    - Software = "Pulsar Functions"
+    - URL = "https://streaml.io/"
   Backend Services:
   - Para:
     - Service = "Para"
