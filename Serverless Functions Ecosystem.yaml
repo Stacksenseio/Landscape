@@ -5,247 +5,246 @@ Serverless Functions Landscape:
   has_list: true
   Cloud Platforms:
   - Amazon Web Services:
-    - Service : AWS Lambda
-    - URL : https://aws.amazon.com/lambda/
+     Service : AWS Lambda
+     URL : https://aws.amazon.com/lambda/
   - Microsoft Azure:
-    - Service : Azure Functions
-    - URL : https://azure.microsoft.com/en-us/services/functions/
+     Service : Azure Functions
+     URL : https://azure.microsoft.com/en-us/services/functions/
   - Google Cloud:
-    - Service : Cloud Functions
-    - URL : https://cloud.google.com/functions/
+     Service : Cloud Functions
+     URL : https://cloud.google.com/functions/
   - IBM Cloud:
-    - Service : IBM Cloud functions
-    - URL : https://console.bluemix.net/openwhisk/
+     Service : IBM Cloud functions
+     URL : https://console.bluemix.net/openwhisk/
   - Nano Lambda:
-    - Service : Nano Lambda
-    - URL : http://nano-lambda.com/
+     Service : Nano Lambda
+     URL : http://nano-lambda.com/
   - Zeit Now Cloud:
-    - Service : Zeit Now
-    - URL : https://zeit.co/now
+     Service : Zeit Now
+     URL : https://zeit.co/now
   - SpotInst:
-    - Service : SpotInst functions
-    - URL : https://spotinst.com/products/spotinst-functions/
+     Service : SpotInst functions
+     URL : https://spotinst.com/products/spotinst-functions/
   - Hyper.sh:
-    - Service : Hyper Func (Beta)
-    - URL : http://hyper.sh
+     Service : Hyper Func (Beta)
+     URL : http://hyper.sh
   - Stdlib:
-    - Service : Stdlib
-    - URL : https://stdlib.com/
+     Service : Stdlib
+     URL : https://stdlib.com/
   - Syncano:
-    - Service : Syncano
-    - URL : https://syncano.io
+     Service : Syncano
+     URL : https://syncano.io
   - Twilio:
-    - Service : Twilio Functions
-    - URL : https://www.twilio.com/functions
+     Service : Twilio Functions
+     URL : https://www.twilio.com/functions
   - Weblab:
-    - Service : Weblab
-    - URL : https://weblab.io/
+     Service : Weblab
+     URL : https://weblab.io/
   - Back&:
-    - Service : Back&
-    - URL : https://www.backand.com/
+     Service : Back&
+     URL : https://www.backand.com/
   Multi Cloud Platforms:
   - Oracle Cloud:
-    - Software : Fn Project
-    - URL : https://fnproject.io/
+     Software : Fn Project
+     URL : https://fnproject.io/
   - Apache Foundation:
-    - Software : Apache OpenWhisk
-    - URL : https://openwhisk.apache.org/
+     Software : Apache OpenWhisk
+     URL : https://openwhisk.apache.org/
   - Iron.io:
-    - Software : IronFunctions
-    - URL : https://github.com/iron-io/functions
+     Software : IronFunctions
+     URL : https://github.com/iron-io/functions
   - PubNub:
-    - Software : PubNub Functions
-    - URL : https://www.pubnub.com/products/functions/
+     Software : PubNub Functions
+     URL : https://www.pubnub.com/products/functions/
   - Nuclio:
-    - Software : Nuclio
-    - URL : https://nuclio.io/
+     Software : Nuclio
+     URL : https://nuclio.io/
   - Bitnami:
-    - Software : Kubeless
-    - URL : http://kubeless.io/
+     Software : Kubeless
+     URL : http://kubeless.io/
   - Platform9:
-    - Software : Fission
-    - URL : http://fission.io/
+     Software : Fission
+     URL : http://fission.io/
   - Fx:
-    - Software : Fx
-    - URL : https://github.com/metrue/fx
+     Software : Fx
+     URL : https://github.com/metrue/fx
   - OpenFaaS:
-    - Software : OpenFaaS
-    - URL : https://www.openfaas.com/
+     Software : OpenFaaS
+     URL : https://www.openfaas.com/
   - LunchBadger:
-    - Software : LunchBadger Serverless
-    - URL : https://www.lunchbadger.com/
+     Software : LunchBadger Serverless
+     URL : https://www.lunchbadger.com/
   - Galactic Fog:
-    - Software : Galactic Fog Gestalt
-    - URL : http://www.galacticfog.com/product/
+     Software : Galactic Fog Gestalt
+     URL : http://www.galacticfog.com/product/
   - Pivotal Functions Service:
-    - Software : Pivotal Functions Service (based on Project Riff)
-    - URL : https://pivotal.io/platform/pivotal-function-service
+     Software : Pivotal Functions Service (based on Project Riff)
+     URL : https://pivotal.io/platform/pivotal-function-service
   - Firecamp:
-    - Software : Firecamp
-    - URL : https://www.cloudstax.io/firecamp
+     Software : Firecamp
+     URL : https://www.cloudstax.io/firecamp
   - Project Riff:
-    - Software : Project Riff
-    - URL : https://projectriff.io/
+     Software : Project Riff
+     URL : https://projectriff.io/
   - Azure Functions Runtime:
-    - Software : Azure Functions Runtime
-    - URL : https://github.com/Azure/azure-functions-host
+     Software : Azure Functions Runtime
+     URL : https://github.com/Azure/azure-functions-host
   - Pulsar Functions:
-    - Software : Pulsar Functions
-    - URL : https://streaml.io/
+     Software : Pulsar Functions
+     URL : https://streaml.io/
   Backend Services:
   - Para:
-    - Service : Para
-    - URL : https://paraio.com/
+     Service : Para
+     URL : https://paraio.com/
   - Progress:
-    - Service : Kinvey
-    - URL : http://www.kinvey.com
+     Service : Kinvey
+     URL : http://www.kinvey.com
   - Google Cloud:
-    - Service : Firebase
-    - URL : https://firebase.google.com/
+     Service : Firebase
+     URL : https://firebase.google.com/
   - CloudBoost:
-    - Service : CloudBoost
-    - URL : https://www.cloudboost.io/
+     Service : CloudBoost
+     URL : https://www.cloudboost.io/
   - Backendless:
-    - Service : Backendless
-    - URL : https://backendless.com/
+     Service : Backendless
+     URL : https://backendless.com/
   - Stamplay:
-    - Service : Stamplay
-    - URL : https://stamplay.com/
+     Service : Stamplay
+     URL : https://stamplay.com/
   - Brightwork:
-    - Service : Brightwork (Beta)
-    - URL : https://www.brightwork.io/
+     Service : Brightwork (Beta)
+     URL : https://www.brightwork.io/
   Developer Tools:
   - Clay:
-    - Software : Clay
-    - URL : https://clay.run/
+     Software : Clay
+     URL : https://clay.run/
   - Webtask:
-    - Service : Webtask
-    - URL : https://webtask.io/
+     Service : Webtask
+     URL : https://webtask.io/
   - Hoodie:
-    - Software : Hoodie
-    - URL : http://hood.ie/
+     Software : Hoodie
+     URL : http://hood.ie/
   - Wolkenkit:
-    - Software : Wolkenkit
-    - URL : https://www.wolkenkit.io/
+     Software : Wolkenkit
+     URL : https://www.wolkenkit.io/
   - Algorithmia:
-    - Service : Algorithmia
-    - URL : https://algorithmia.com/
+     Service : Algorithmia
+     URL : https://algorithmia.com/
   - Jazz:
-    - Software : Jazz
-    - URL : https://github.com/tmobile/jazz
+     Software : Jazz
+     URL : https://github.com/tmobile/jazz
   - IBM Composer:
-    - Software : IBM Composer
-    - URL : https://github.com/ibm-functions/composer/
+     Software : IBM Composer
+     URL : https://github.com/ibm-functions/composer/
   - Microcule:
-    - Software : Microcule
-    - URL : https://github.com/Stackvana/microcule/
+     Software : Microcule
+     URL : https://github.com/Stackvana/microcule/
   - Realm Functions:
-    - Software : Realm Functions
-    - URL : https://realm.io/realm-functions/
+     Software : Realm Functions
+     URL : https://realm.io/realm-functions/
   Frameworks:
   - Serverless:
-    - Software : Serverless Framework and Event Gateway
-    - URL : https://serverless.com/
+     Software : Serverless Framework and Event Gateway
+     URL : https://serverless.com/
   - Zappa:
-    - Software : Zappa
-    - URL : https://www.zappa.io/
+     Software : Zappa
+     URL : https://www.zappa.io/
   - AWS Chalice:
-    - Software : Chalice, python Microservices framework
-    - URL : https://github.com/aws/chalice
+     Software : Chalice, python Microservices framework
+     URL : https://github.com/aws/chalice
   - Claudia.js:
-    - Software : Claudia.js
-    - URL : https://claudiajs.com/
+     Software : Claudia.js
+     URL : https://claudiajs.com/
   - Apex:
-    - Software : Apex
-    - URL : http://apex.run/
+     Software : Apex
+     URL : http://apex.run/
   - Dawson:
-    - Software : Dawson
-    - URL : https://github.com/dawson-org
+     Software : Dawson
+     URL : https://github.com/dawson-org
   - Kappa:
-    - Software : Kappa
-    - URL : https://github.com/garnaat/kappa
+     Software : Kappa
+     URL : https://github.com/garnaat/kappa
   - λ Gordon:
-    - Software : λ Gordon
-    - URL : https://github.com/jorgebastida/gordon
+     Software : λ Gordon
+     URL : https://github.com/jorgebastida/gordon
   - Shep:
-    - Software : Shep
-    - URL : https://github.com/bustle/shep
+     Software : Shep
+     URL : https://github.com/bustle/shep
   - Sparta:
-    - Software : Sparta
-    - URL : http://gosparta.io/
+     Software : Sparta
+     URL : http://gosparta.io/
   - Middy:
-    - Software : Middy
-    - URL : https://middy.js.org/
+     Software : Middy
+     URL : https://middy.js.org/
   - Qmuli:
-    - Software : QMuli
-    - URL : https://github.com/qmuli/qmuli/
+     Software : QMuli
+     URL : https://github.com/qmuli/qmuli/
   - Bender:
-    - Software : Bender
-    - URL : https://github.com/nextdoor/bender
+     Software : Bender
+     URL : https://github.com/nextdoor/bender
   - Scar:
-    - Software : Scar
-    - URL : https://github.com/grycap/scar
+     Software : Scar
+     URL : https://github.com/grycap/scar
   Observability:
   - Dashbird:
-    - Service : Dashbird
-    - URL : https://dashbird.io/
+     Service : Dashbird
+     URL : https://dashbird.io/
   - Thundra:
-    - Service : Thundra
-    - URL : https://www.thundra.io/
+     Service : Thundra
+     URL : https://www.thundra.io/
   - IOPipe:
-    - Service : IOPipe
-    - URL : https://www.iopipe.com/
+     Service : IOPipe
+     URL : https://www.iopipe.com/
   - Stackery:
-    - Service : Stackery
-    - URL : https://www.stackery.io/
+     Service : Stackery
+     URL : https://www.stackery.io/
   - Honeycomb.io:
-    - Service : Honeycomb.io
-    - URL : https://honeycomb.io/serverless/
+     Service : Honeycomb.io
+     URL : https://honeycomb.io/serverless/
   - Logz.io:
-    - Service : Logz.io
-    - URL : https://logz.io/
+     Service : Logz.io
+     URL : https://logz.io/
   - Datadog:
-    - Service : Datadog
-    - URL : http://www.datadoghq.com
+     Service : Datadog
+     URL : http://www.datadoghq.com
   - Sumologic:
-    - Service : Sumologic
-    - URL : https://www.sumologic.com/
+     Service : Sumologic
+     URL : https://www.sumologic.com/
   Storage:
   - Minio:
-    - Software : Minio
-    - URL : http://minio.io
+     Software : Minio
+     URL : http://minio.io
   -NoDB:
-    - Software : NoDB
-    - URL : https://github.com/Miserlou/NoDB
+     Software : NoDB
+     URL : https://github.com/Miserlou/NoDB
   CDN:
   - Cisco:
-    - Software : Function Router
-    - URL : https://www.functionrouter.com/
+     Software : Function Router
+     URL : https://www.functionrouter.com/
   DevOps:
   - Seed:
-    - Service : Seed CI/CD Pipeline
-    - URL : https://seed.run/
+     Service : Seed CI/CD Pipeline
+     URL : https://seed.run/
   - LambCI:
-    - Software : LambCI
-    - URL : https://github.com/lambci/lambci
+     Software : LambCI
+     URL : https://github.com/lambci/lambci
   Security:
   - Puresec:
-    - Service : Puresec
-    - URL : https://www.puresec.io/
+     Service : Puresec
+     URL : https://www.puresec.io/
   - Snyk:
-    - Software : Snyk
-    - URL : https://snyk.io/
+     Software : Snyk
+     URL : https://snyk.io/
   - Vanadium:
-    - Software : Vanadium
-    - URL : https://vandium.io/
+     Software : Vanadium
+     URL : https://vandium.io/
   - Evident.io:
-    - Software : Evident.io
-    - URL : https://evident.io/
+     Software : Evident.io
+     URL : https://evident.io/
   - Twistlock:
-    - Software : Twistlock
-    - URL : https://www.twistlock.com/
+     Software : Twistlock
+     URL : https://www.twistlock.com/
   - BinaryAlert:
-    - Software : BinaryAlert
-    - URL : https://github.com/airbnb/binaryalert
-
+     Software : BinaryAlert
+     URL : https://github.com/airbnb/binaryalert
 ...
