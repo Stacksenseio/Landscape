@@ -1,0 +1,158 @@
+---
+# Cloud Providers Locations and Regions
+# Created by Rishidot Research (www.rishidot.com) and released under Attribution-NonCommercial-ShareAlike 4.0 International
+# We have compared major cloud providers. If you want to add any new provider, please give a pull request with location info
+# Different cloud providers use different names for their public cloud services and their region classifications vary
+Cloud Providers Locations:
+    has_list: true
+    Amazon Web Services:
+      # Reference: https://aws.amazon.com/about-aws/global-infrastructure/
+      # Does not include AWS GovCloud regions
+      - Continent : America
+        - Country : USA
+          Number of Regions : 4
+        - Country : Canada
+          Number of Regions : 1
+        - Country : Brazil
+          Number of Regions : 1
+      - Continent : Europe
+        - Country : Germany
+          Number of Regions : 1
+        - Country : UK
+          Number of Regions : 1
+        - Country : Ireland
+          Number of Regions : 1
+        - Country : France
+          Number of Regions : 1
+      - Continent : Asia Pacific
+        - Country : China
+          Number of Regions : 2
+        - Country : Singapore
+          Number of Regions : 1
+        - Country : India
+          Number of Regions : 1
+        - Country : Japan
+          Number of Regions : 2
+        - Country : South Korea
+          Number of Regions : 1
+        - Country : Australia
+          Number of Regions : 1
+    Microsoft Azure:
+      # Reference: https://azure.microsoft.com/en-us/regions/
+      # Does not include Azure DoD & Gov Cloud regions
+      - Continent : America
+        - Country : USA
+          Number of Regions : 8
+        - Country : Canada
+          Number of Regions : 2
+        - Country : Brazil
+          Number of Regions : 1
+      - Continent : Europe
+        - Country : Germany
+          Number of Regions : 2
+        - Country : UK
+          Number of Regions : 2
+        - Country : Ireland
+          Number of Regions : 1
+        - Country : Netherlands
+          Number of Regions : 1
+        - Country : France
+          Number of Regions : 2
+      - Continent : Asia Pacific
+        - Country : China
+          Number of Regions : 2
+        - Country : Singapore
+          Number of Regions : 1
+        - Country : India
+          Number of Regions : 3
+        - Country : Japan
+          Number of Regions : 2
+        - Country : South Korea
+          Number of Regions : 2
+        - Country : Australia
+          Number of Regions : 4
+        - Country : Hong Kong
+          Number of Regions : 1
+      - Continent : Africa
+        - Country : South Africa
+          Number of Regions : 2
+    Google Cloud:
+      # Reference: https://cloud.google.com/compute/docs/regions-zones/
+      - Continent : America
+        - Country : USA
+          Number of Regions : 4
+        - Country : Canada
+          Number of Regions : 1
+        - Country : Brazil
+          Number of Regions : 1
+      - Continent : Europe
+        - Country : Germany
+          Number of Regions : 1
+        - Country : UK
+          Number of Regions : 1
+        - Country : Belgium
+          Number of Regions : 1
+        - Country : Netherlands
+          Number of Regions : 1
+      - Continent : Asia Pacific
+        - Country : Singapore
+          Number of Regions : 1
+        - Country : India
+          Number of Regions : 1
+        - Country : Japan
+          Number of Regions : 1
+        - Country : Taiwan
+          Number of Regions : 1
+        - Country : Australia
+          Number of Regions : 1
+    IBM Cloud:
+      # Reference: https://www.ibm.com/cloud-computing/bluemix/data-centers
+      # Does not include any Gov Cloud regions
+      - Continent : America
+        - Country : USA
+          Number of Regions : 1
+      - Continent : Europe
+        - Country : Germany
+          Number of Regions : 1
+        - Country : UK
+          Number of Regions : 1
+      - Continent : Asia Pacific
+        - Country : Australia
+          Number of Regions : 1
+    Oracle Cloud IaaS:
+      # Reference: https://cloud.oracle.com/data-regions
+      # Does not include any Gov Cloud regions
+      - Continent : America
+        - Country : USA
+          Number of Regions : 2
+      - Continent : Europe
+        - Country : Germany
+          Number of Regions : 1
+    Alibaba Cloud:
+      # Reference: https://www.alibabacloud.com/help/doc-detail/40654.htm
+      - Continent : America
+        - Country : USA
+          Number of Regions : 2
+      - Continent : Europe
+        - Country : Germany
+          Number of Regions : 1
+      - Continent : Asia Pacific
+        - Country : China
+          Number of Regions : 7
+        - Country : Singapore
+          Number of Regions : 1
+        - Country : India
+          Number of Regions : 1
+        - Country : Japan
+          Number of Regions : 1
+        - Country : Dubai
+          Number of Regions : 1
+        - Country : Australia
+          Number of Regions : 1
+        - Country : Indonesia
+          Number of Regions : 1
+        - Country : Malaysia
+          Number of Regions : 1
+        - Country : Hong Kong
+          Number of Regions : 1
+...
