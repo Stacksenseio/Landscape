@@ -105,8 +105,8 @@ Cloud Providers Locations:
           Number of Regions : 1
         - Country : Australia
           Number of Regions : 1
-    IBM Cloud:
-      # Reference: https://www.ibm.com/cloud-computing/bluemix/data-centers
+    IBM Cloud Public:
+      # Reference: https://www.ibm.com/cloud/
       # Does not include any Gov Cloud regions
       - Continent : America
         - Country : USA
@@ -119,6 +119,44 @@ Cloud Providers Locations:
       - Continent : Asia Pacific
         - Country : Australia
           Number of Regions : 1
+    IBM Cloud Infrastructure:
+      # Reference: https://www.ibm.com/cloud-computing/bluemix/data-centers
+      # Does not include any Gov Cloud regions
+      - Continent : America
+        - Country : USA
+          Number of Regions : 5
+        - Country : Canada
+          Number of Regions : 2
+        - Country : Mexico
+          Number of Regions : 1
+        - Country : Brazil
+          Number of Regions : 1
+      - Continent : Europe
+        - Country : The Netherlands
+          Number of Regions : 1
+        - Country : Germany
+          Number of Regions : 1
+        - Country : England
+          Number of Regions : 1
+        - Country : Italy
+          Number of Regions : 1
+        - Country : Norway
+          Number of Regions : 1
+        - Country : France
+          Number of Regions : 1
+      - Continent : Asia Pacific
+        - Country : India
+          Number of Regions : 1
+        - Country : Hong Kong
+          Number of Regions : 1
+        - Country : Korea
+          Number of Regions : 1
+        - Country : Singapore
+          Number of Regions : 1
+        - Country : Japan
+          Number of Regions : 1
+        - Country : Australia
+          Number of Regions : 2
     Oracle Cloud IaaS:
       # Reference: https://cloud.oracle.com/data-regions
       # Does not include any Gov Cloud regions
