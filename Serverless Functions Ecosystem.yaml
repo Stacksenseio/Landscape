@@ -210,6 +210,9 @@ Serverless Functions Landscape:
   - Sumologic:
      Service : Sumologic
      URL : https://www.sumologic.com/
+  - Elastic:
+     Service : Elastic ELK Stack
+     URL : https://www.elastic.co/elk-stack
   Storage:
   - Minio:
      Software : Minio
