@@ -1,0 +1,174 @@
+---
+#DevOps Functions Landscape
+#Created by Rishidot Research (www.rishidot.com) and released under Attribution-ShareAlike 4.0 International
+Serverless Functions Landscape:
+  has_list: true
+  Planning and Collaboration:
+    Requirements and Project Management:
+      - Atlassian:
+        Software : Jira
+        URL: https://www.atlassian.com/software/jira
+        Software : Trello
+        URL : https://trello.com/
+      - IBM:
+        Software : IBM Rational Team Concert
+        URL : https://www.ibm.com/us-en/marketplace/change-and-configuration-management
+      - Collabnet:
+        Software : Collabnet VersionOne
+        URL : https://www.collab.net/products/versionone
+      - CA Technologies:
+        Software : CA Agile Central
+        URL : https://www.ca.com/us/products/agile-planning.html
+        Software : CA Project and Portfolio Management
+        URL : https://www.ca.com/us/products/project-portfolio-management-software.html
+      - TargetProcess:
+        Software : TargetProcess
+        URL : https://www.targetprocess.com/
+      - Yodiz:
+        Software : Yodiz
+        URL : https://www.yodiz.com/index.html
+      - Pivotal Software:
+        Software : Pivotal Tracker
+        URL : https://www.pivotaltracker.com/
+      - ActiveCollab:
+        Software : Active.Collab
+        URL : https://activecollab.com/
+      - Kagilum SAS:
+        Software : Icescrum
+        URL : https://www.icescrum.com/
+      - Jama Software:
+        Software : Jama Connect
+        URL : https://www.jamasoftware.com/platform/jama-connect/
+      - Aha Labs Inc:
+        Software : Aha Roadmap Software
+        URL : https://www.aha.io/
+      - Hive:
+        Software : Hive
+        URL : https://hive.com/
+      - Basecamp:
+        Software : Basecamp
+        URL : https://basecamp.com/
+    Collaboration:
+      - Slack:
+        Software : Slack
+        URL : https://slack.com/
+      - Microsoft:
+        Software : Microsoft Teams
+        URL : https://products.office.com/en-us/microsoft-teams/group-chat-software
+      - Mattermost:
+        Software : Mattermost
+        URL : https://mattermost.com/
+      - eXo:
+        Software : eXo Platform
+        URL : https://www.exoplatform.com/
+      - Salesforce:
+        Software : Salesforce Chatter
+        URL : https://www.salesforce.com/products/chatter/overview/
+      - Flock:
+        Software : Flock
+        URL : https://flock.com
+      - Google:
+        Software : Google Chat
+        URL : https://chat.google.com/
+  Application Development:
+    Source Code Management:
+      - Microsoft:
+        Software : Github
+        URL : https://github.com/
+      - Atlassian:
+        Software : Bitbucket
+        URL : https://bitbucket.org/
+      - Subversion:
+        Software : Apache Subversion
+        URL : https://subversion.apache.org/
+      - Perforce:
+        Software : Perforce HelixCore
+        URL : https://www.perforce.com/products/helix-core
+      - Assembla:
+        Software : Assembla
+        URL : https://www.assembla.com/home
+      - Fogbugz:
+        Software : Glitch
+        URL : https://glitch.com/
+      - Mercurial:
+        Software : Mercurial
+        URL : https://www.mercurial-scm.org/
+    Build Tools:
+      - Maven:
+        Software : Maven
+        URL : https://maven.apache.org/
+      - Gradle:
+        Software : Gradle
+        URL : https://gradle.org/
+      - Ant:
+        Software : Ant
+        URL : https://ant.apache.org/
+      - Microsoft:
+        Software : Microsoft Build Engine
+        URL : https://github.com/microsoft/msbuild
+      - Postman:
+        Software : Postman
+        URL : https://www.getpostman.com/
+      - Sbt:
+        Software : Sbt
+        URL : https://www.scala-sbt.org/
+      - Invoke:
+        Software : Invoke
+        URL : http://www.pyinvoke.org/
+      - Rake:
+        Software : Ruby Rake
+        URL : https://github.com/ruby/rake
+      - Suse:
+        Software : OpenSuse Build Service
+        URL : https://build.opensuse.org/
+      - Broccoli:
+        Software : Broccoli
+        URL : https://github.com/broccolijs
+      - Webpack:
+        Software : Webpack
+        URL : https://webpack.js.org/
+      - Buildr:
+        Software : Buildr
+        URL : https://buildr.apache.org/
+      - CMake:
+        Software : CMake
+        URL : https://cmake.org/
+      - Gulp:
+        Software : Gulp
+        URL : https://gulpjs.com/
+      - Grunt:
+        Software : Grunt
+        URL : https://gruntjs.com/
+      - NAnt:
+        Software : NAnt
+        URL : http://nant.sourceforge.net/
+      - GNU Make:
+        Software : GNU Make
+        URL : https://www.gnu.org/software/make/manual/make.html#Overview
+      - Visual Build:
+        Software : Visual Build
+        URL : https://www.kinook.com/VisBuildPro/
+      - Hashicorp:
+        Software : Hashicorp Packer
+        URL : https://www.packer.io/
+      - Scons:
+        Software : Scons
+        URL : https://www.scons.org/
+      - VSoft:
+        Software : FinalBuilder
+        URL : https://www.finalbuilder.com/finalbuilder
+      - OpenMake:
+        Software : OpenMake
+        URL : https://www.openmakesoftware.com/
+    Continuous Integration:
+
+
+
+
+
+
+
+
+
+
+...

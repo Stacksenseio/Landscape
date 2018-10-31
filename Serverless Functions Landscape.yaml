@@ -4,44 +4,44 @@
 Serverless Functions Landscape:
   has_list: true
   Cloud Platforms:
-  - Amazon Web Services:
-     Service : AWS Lambda
+  - Amazon Web Softwares:
+     Software : AWS Lambda
      URL : https://aws.amazon.com/lambda/
   - Microsoft Azure:
-     Service : Azure Functions
-     URL : https://azure.microsoft.com/en-us/services/functions/
+     Software : Azure Functions
+     URL : https://azure.microsoft.com/en-us/Softwares/functions/
   - Google Cloud:
-     Service : Cloud Functions
+     Software : Cloud Functions
      URL : https://cloud.google.com/functions/
   - IBM Cloud:
-     Service : IBM Cloud functions
+     Software : IBM Cloud functions
      URL : https://console.bluemix.net/openwhisk/
   - Nano Lambda:
-     Service : Nano Lambda
+     Software : Nano Lambda
      URL : http://nano-lambda.com/
   - Zeit Now Cloud:
-     Service : Zeit Now
+     Software : Zeit Now
      URL : https://zeit.co/now
   - SpotInst:
-     Service : SpotInst functions
+     Software : SpotInst functions
      URL : https://spotinst.com/products/spotinst-functions/
   - Hyper.sh:
-     Service : Hyper Func (Beta)
+     Software : Hyper Func (Beta)
      URL : http://hyper.sh
   - Stdlib:
-     Service : Stdlib
+     Software : Stdlib
      URL : https://stdlib.com/
   - Syncano:
-     Service : Syncano
+     Software : Syncano
      URL : https://syncano.io
   - Twilio:
-     Service : Twilio Functions
+     Software : Twilio Functions
      URL : https://www.twilio.com/functions
   - Weblab:
-     Service : Weblab
+     Software : Weblab
      URL : https://weblab.io/
   - Back&:
-     Service : Back&
+     Software : Back&
      URL : https://www.backand.com/
   Multi Cloud Platforms:
   - Oracle Cloud:
@@ -77,9 +77,9 @@ Serverless Functions Landscape:
   - Galactic Fog:
      Software : Galactic Fog Gestalt
      URL : http://www.galacticfog.com/product/
-  - Pivotal Functions Service:
-     Software : Pivotal Functions Service (based on Project Riff)
-     URL : https://pivotal.io/platform/pivotal-function-service
+  - Pivotal Functions Software:
+     Software : Pivotal Functions Software (based on Project Riff)
+     URL : https://pivotal.io/platform/pivotal-function-Software
   - Firecamp:
      Software : Firecamp
      URL : https://www.cloudstax.io/firecamp
@@ -95,34 +95,34 @@ Serverless Functions Landscape:
   - Pulsar Functions:
      Software : Pulsar Functions
      URL : https://streaml.io/
-  Backend Services:
+  Backend Softwares:
   - Para:
-     Service : Para
+     Software : Para
      URL : https://paraio.com/
   - Progress:
-     Service : Kinvey
+     Software : Kinvey
      URL : http://www.kinvey.com
   - Google Cloud:
-     Service : Firebase
+     Software : Firebase
      URL : https://firebase.google.com/
   - CloudBoost:
-     Service : CloudBoost
+     Software : CloudBoost
      URL : https://www.cloudboost.io/
   - Backendless:
-     Service : Backendless
+     Software : Backendless
      URL : https://backendless.com/
   - Stamplay:
-     Service : Stamplay
+     Software : Stamplay
      URL : https://stamplay.com/
   - Brightwork:
-     Service : Brightwork (Beta)
+     Software : Brightwork (Beta)
      URL : https://www.brightwork.io/
   Developer Tools:
   - Clay:
      Software : Clay
      URL : https://clay.run/
   - Webtask:
-     Service : Webtask
+     Software : Webtask
      URL : https://webtask.io/
   - Hoodie:
      Software : Hoodie
@@ -131,7 +131,7 @@ Serverless Functions Landscape:
      Software : Wolkenkit
      URL : https://www.wolkenkit.io/
   - Algorithmia:
-     Service : Algorithmia
+     Software : Algorithmia
      URL : https://algorithmia.com/
   - Jazz:
      Software : Jazz
@@ -145,6 +145,9 @@ Serverless Functions Landscape:
   - Realm Functions:
      Software : Realm Functions
      URL : https://realm.io/realm-functions/
+  - SLAppForge:
+      Software: Sigma
+      URL : https://slappforge.com/
   Frameworks:
   - Serverless:
      Software : Serverless Framework and Event Gateway
@@ -153,7 +156,7 @@ Serverless Functions Landscape:
      Software : Zappa
      URL : https://www.zappa.io/
   - AWS Chalice:
-     Software : Chalice, python Microservices framework
+     Software : Chalice, python MicroSoftwares framework
      URL : https://github.com/aws/chalice
   - Claudia.js:
      Software : Claudia.js
@@ -190,32 +193,38 @@ Serverless Functions Landscape:
      URL : https://github.com/grycap/scar
   Observability:
   - Dashbird:
-     Service : Dashbird
+     Software : Dashbird
      URL : https://dashbird.io/
   - Thundra:
-     Service : Thundra
+     Software : Thundra
      URL : https://www.thundra.io/
   - IOPipe:
-     Service : IOPipe
+     Software : IOPipe
      URL : https://www.iopipe.com/
   - Stackery:
-     Service : Stackery
+     Software : Stackery
      URL : https://www.stackery.io/
   - Honeycomb.io:
-     Service : Honeycomb.io
+     Software : Honeycomb.io
      URL : https://honeycomb.io/serverless/
   - Logz.io:
-     Service : Logz.io
+     Software : Logz.io
      URL : https://logz.io/
   - Datadog:
-     Service : Datadog
+     Software : Datadog
      URL : http://www.datadoghq.com
   - Sumologic:
-     Service : Sumologic
+     Software : Sumologic
      URL : https://www.sumologic.com/
   - Elastic:
-     Service : Elastic ELK Stack
+     Software : Elastic ELK Stack
      URL : https://www.elastic.co/elk-stack
+  - Cloudzero:
+      Software: Cloudzero
+      URL : https://www.cloudzero.com/
+  - Epsagon:
+      Software: Epsagon
+      URL : https://www.epsagon.com/
   Storage:
   - Minio:
      Software : Minio
@@ -229,14 +238,14 @@ Serverless Functions Landscape:
      URL : https://www.functionrouter.com/
   DevOps:
   - Seed:
-     Service : Seed CI/CD Pipeline
+     Software : Seed CI/CD Pipeline
      URL : https://seed.run/
   - LambCI:
      Software : LambCI
      URL : https://github.com/lambci/lambci
   Security:
   - Puresec:
-     Service : Puresec
+     Software : Puresec
      URL : https://www.puresec.io/
   - Snyk:
      Software : Snyk
@@ -253,4 +262,7 @@ Serverless Functions Landscape:
   - BinaryAlert:
      Software : BinaryAlert
      URL : https://github.com/airbnb/binaryalert
+  - Protego:
+      Software : Protego
+      URL : https://www.protego.io/
 ...
