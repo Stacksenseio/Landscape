@@ -40,9 +40,6 @@ Serverless Functions Landscape:
   - Weblab:
      Software : Weblab
      URL : https://weblab.io/
-  - Back&:
-     Software : Back&
-     URL : https://www.backand.com/
   Multi Cloud Platforms:
   - Oracle Cloud:
      Software : Fn Project
@@ -77,9 +74,9 @@ Serverless Functions Landscape:
   - Galactic Fog:
      Software : Galactic Fog Gestalt
      URL : http://www.galacticfog.com/product/
-  - Pivotal Functions Software:
-     Software : Pivotal Functions Software (based on Project Riff)
-     URL : https://pivotal.io/platform/pivotal-function-Software
+  - Pivotal Function Service:
+     Software : Pivotal Functions Service (based on Project Riff)
+     URL : https://pivotal.io/platform/pivotal-function-service
   - Firecamp:
      Software : Firecamp
      URL : https://www.cloudstax.io/firecamp
@@ -136,9 +133,9 @@ Serverless Functions Landscape:
   - Jazz:
      Software : Jazz
      URL : https://github.com/tmobile/jazz
-  - IBM Composer:
+  - Apache OpenWhisk Composer:
      Software : IBM Composer
-     URL : https://github.com/ibm-functions/composer/
+     URL : https://github.com/apache/incubator-openwhisk-composer
   - Microcule:
      Software : Microcule
      URL : https://github.com/Stackvana/microcule/
