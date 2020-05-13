@@ -235,10 +235,6 @@ Serverless Functions Landscape:
   -NoDB:
      Software : NoDB
      URL : https://github.com/Miserlou/NoDB
-  CDN:
-  - Cisco:
-     Software : Function Router
-     URL : https://www.functionrouter.com/
   DevOps:
   - Seed:
      Software : Seed CI/CD Pipeline
