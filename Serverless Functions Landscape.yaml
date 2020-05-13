@@ -253,12 +253,6 @@ Serverless Functions Landscape:
   - Snyk:
      Software : Snyk
      URL : https://snyk.io/
-  - Vanadium:
-     Software : Vanadium
-     URL : https://vandium.io/
-  - Evident.io:
-     Software : Evident.io
-     URL : https://evident.io/
   - BinaryAlert:
      Software : BinaryAlert
      URL : https://github.com/airbnb/binaryalert
