@@ -16,18 +16,18 @@ Serverless Functions Landscape:
   - IBM Cloud:
      Software : IBM Cloud functions
      URL : https://console.bluemix.net/openwhisk/
+  - Zoho:
+     Software : Zoho Catalyst
+     URL : https://www.zoho.com/catalyst/
   - Nano Lambda:
      Software : Nano Lambda
      URL : http://nano-lambda.com/
-  - Zeit Now Cloud:
-     Software : Zeit Now
-     URL : https://zeit.co/now
+  - Vercel:
+     Software : Vercel
+     URL : https://vercel.com/
   - SpotInst:
      Software : SpotInst functions
      URL : https://spotinst.com/products/spotinst-functions/
-  - Hyper.sh:
-     Software : Hyper Func (Beta)
-     URL : http://hyper.sh
   - Stdlib:
      Software : Stdlib
      URL : https://stdlib.com/
@@ -92,6 +92,9 @@ Serverless Functions Landscape:
   - Pulsar Functions:
      Software : Pulsar Functions
      URL : https://streaml.io/
+  - Nimbella:
+     Software : Nimbella Platform
+     URL : https://nimbella.com/product/platform
   Backend Softwares:
   - Para:
      Software : Para
@@ -195,9 +198,9 @@ Serverless Functions Landscape:
   - Thundra:
      Software : Thundra
      URL : https://www.thundra.io/
-  - IOPipe:
-     Software : IOPipe
-     URL : https://www.iopipe.com/
+  - New Relic:
+     Software : New Relic Serverless for AWS Lambda
+     URL : https://newrelic.com/products/serverless-aws-lambda
   - Stackery:
      Software : Stackery
      URL : https://www.stackery.io/
@@ -217,11 +220,14 @@ Serverless Functions Landscape:
      Software : Elastic ELK Stack
      URL : https://www.elastic.co/elk-stack
   - Cloudzero:
-      Software: Cloudzero
+      Software : Cloudzero
       URL : https://www.cloudzero.com/
   - Epsagon:
-      Software: Epsagon
-      URL : https://www.epsagon.com/
+      Software : Epsagon Serverless Observability
+      URL : https://epsagon.com/serverless-observability/
+  - Lumigo:
+      Software : Lumigo
+      URL : https://lumigo.io/
   Storage:
   - Minio:
      Software : Minio
@@ -241,9 +247,9 @@ Serverless Functions Landscape:
      Software : LambCI
      URL : https://github.com/lambci/lambci
   Security:
-  - Puresec:
-     Software : Puresec
-     URL : https://www.puresec.io/
+  - Palo Alto Networks:
+     Software : Prisma Cloud
+     URL : https://www.paloaltonetworks.com/prisma/cloud/compute-security
   - Snyk:
      Software : Snyk
      URL : https://snyk.io/
@@ -253,9 +259,6 @@ Serverless Functions Landscape:
   - Evident.io:
      Software : Evident.io
      URL : https://evident.io/
-  - Twistlock:
-     Software : Twistlock
-     URL : https://www.twistlock.com/
   - BinaryAlert:
      Software : BinaryAlert
      URL : https://github.com/airbnb/binaryalert
