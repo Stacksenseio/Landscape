@@ -15,7 +15,7 @@ Serverless Functions Landscape:
      URL : https://cloud.google.com/functions/
   - IBM Cloud:
      Software : IBM Cloud functions
-     URL : https://console.bluemix.net/openwhisk/
+     URL : https://www.ibm.com/cloud/functions
   - Zoho:
      Software : Zoho Catalyst
      URL : https://www.zoho.com/catalyst/
@@ -95,16 +95,13 @@ Serverless Functions Landscape:
   - Nimbella:
      Software : Nimbella Platform
      URL : https://nimbella.com/product/platform
-  - Vendia:
-     Software : Vendia Share
-     URL : https://www.vendia.net/
-  Backend Softwares:
+  Backend as a Service:
   - Para:
      Software : Para
      URL : https://paraio.com/
   - Progress:
      Software : Kinvey
-     URL : http://www.kinvey.com
+     URL : https://www.progress.com/kinvey
   - Google Cloud:
      Software : Firebase
      URL : https://firebase.google.com/
@@ -238,10 +235,6 @@ Serverless Functions Landscape:
   -NoDB:
      Software : NoDB
      URL : https://github.com/Miserlou/NoDB
-  CDN:
-  - Cisco:
-     Software : Function Router
-     URL : https://www.functionrouter.com/
   DevOps:
   - Seed:
      Software : Seed CI/CD Pipeline
@@ -256,12 +249,6 @@ Serverless Functions Landscape:
   - Snyk:
      Software : Snyk
      URL : https://snyk.io/
-  - Vanadium:
-     Software : Vanadium
-     URL : https://vandium.io/
-  - Evident.io:
-     Software : Evident.io
-     URL : https://evident.io/
   - BinaryAlert:
      Software : BinaryAlert
      URL : https://github.com/airbnb/binaryalert
