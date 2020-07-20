@@ -151,6 +151,9 @@ Serverless Functions Landscape:
   - SLAppForge:
       Software: Sigma
       URL : https://slappforge.com/
+  - Koyeb:
+      Software : Koyeb
+      URL : https://www.koyeb.com/
   Frameworks:
   - Serverless:
      Software : Serverless Framework and Event Gateway
