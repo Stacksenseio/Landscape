@@ -98,6 +98,13 @@ Serverless Functions Landscape:
   - Vendia:
      Software : Vendia Share
      URL : https://www.vendia.net/
+  Edge Platforms:
+  - Edjx:
+     Software : Edjx
+     URL : https://edjx.io/
+  - CloudFlare:
+     Software : Workers
+     URL : https://workers.cloudflare.com/
   Backend as a Service:
   - Para:
      Software : Para
