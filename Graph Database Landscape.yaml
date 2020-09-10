@@ -1,0 +1,67 @@
+---
+#Graph Database Landscape
+#Created by Rishidot Research (www.rishidot.com) and released under Attribution-ShareAlike 4.0 International
+Graph Database Landscape:
+  has_list: true
+  Database:
+    Graph Database:
+      - Neo4j:
+        Software : Neo4j Database
+        URL: https://neo4j.com/neo4j-graph-database/
+      - DGraph:
+        Software : DGraph Database
+        URL: https://dgraph.io/graph-db
+      - TigerGraph:
+        Software : TogerGraph DB
+        URL: https://www.tigergraph.com/
+      - Redislabs:
+        Software : RedisGraph
+        URL: https://oss.redislabs.com/redisgraph/
+    Multi Model Database:
+      - ArangoDB:
+        Software : ArangoDB
+        URL: https://www.arangodb.com/
+      - OrientDB:
+        Software : OrientDB
+        URL: https://www.orientdb.org/
+    Cloud Service:
+      - Neo4j:
+        Software : Neo4j Aura
+        URL : https://neo4j.com/cloud/aura/
+      - DGraph:
+        Software : Slash GraphQL
+        URL : https://dgraph.io/slash-graphql
+      - TigerGraph:
+        Software : TigerGraph Cloud
+        URL : https://www.tigergraph.com/cloud/
+      - ArangoDB:
+        Software : ArangoDB Oasis
+        URL : https://cloud.arangodb.com/home
+    Query Language:
+      - OpenCypher:
+        Software : Cypher
+        URL : http://www.opencypher.org/
+      - GraphQL:
+        Software : GraphQL
+        URL : https://graphql.org/
+      - ArangoDB:
+        Software : AQL
+        URL : https://www.arangodb.com/docs/stable/aql/
+    API:
+      - gRPC:
+        Software : gRPC
+        URL : https://www.grpc.io/
+      - HTTP:
+        Software : HTTP
+        URL : https://www.w3.org/Protocols/
+    Desktop Client and Visualization:
+      - Neo4j:
+        Software : Neo4j Desktop
+        URL : https://neo4j.com/download/
+      - Neo4j:
+        Software : Neo4k Bloom
+        URL : https://neo4j.com/bloom/
+      - TigerGraph:
+        Software : GraphStudio
+        URL : https://www.tigergraph.com/graphstudio/
+...
