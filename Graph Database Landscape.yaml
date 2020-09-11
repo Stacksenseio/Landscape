@@ -17,6 +17,9 @@ Graph Database Landscape:
       - Redislabs:
         Software : RedisGraph
         URL: https://oss.redislabs.com/redisgraph/
+      - NebulaGraph:
+        Software : NebulaGraph
+        URL: https://nebula-graph.io/
     Multi Model Database:
       - ArangoDB:
         Software : ArangoDB
