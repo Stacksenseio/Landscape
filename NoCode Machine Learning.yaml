@@ -1,0 +1,33 @@
+#NoCode Machine Learning Landscape
+#Created by Rishidot Research (www.rishidot.com) and released under Attribution-ShareAlike 4.0 International
+NoCode Machine Learning Landscape:
+  has_list: true
+  Platforms:
+    NoCode Platforms:
+      - Primer:
+        Software : Primer Automate
+        URL: https://primer.ai/products/primer-automate/
+      - Veritone:
+        Software : Veritone AIWare
+        URL: https://www.veritone.com/aiware/welcome-to-aiware/
+      - Peltarion:
+        Software : Peltarion Platform
+        URL: https://peltarion.com/
+      - Google:
+        Software : Teachable Machine
+        URL: https://teachablemachine.withgoogle.com/
+      - Levity:
+        Software : Levity
+        URL: https://levity.ai/
+      - DataRobot:
+        Software : Visual AI
+        URL: https://www.datarobot.com/platform/visual-ai/
+      - Obviously.ai:
+        Software : Obviously.ai
+        URL: https://www.obviously.ai/
+      - Akkio:
+        Software : Akkio
+        URL: https://www.akkio.com/
+      - Microsoft:
+        Software : Lobe.ai
+        URL: https://lobe.ai/
